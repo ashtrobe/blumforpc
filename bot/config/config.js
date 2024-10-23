@@ -70,7 +70,7 @@ const settings = {
     : true,
   F_E: ".mjs",
 
-  CAN_CREATE_SESSION: false,
+  CAN_CREATE_SESSION: true,
 };
 
 module.exports = settings;
