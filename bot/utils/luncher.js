@@ -30,9 +30,7 @@ class Luncher {
 ║╚╝╚╗║║ ╔╗╔╗╔╗╔╗║╚╝╚╗╔══╗╚╗╔╝
 ║╔═╗║║║ ║║║║║╚╝║║╔═╗║║╔╗║ ║║ 
 ║╚═╝║║╚╗║╚╝║║║║║║╚═╝║║╚╝║ ║╚╗
-╚═══╝╚═╝╚══╝╚╩╩╝╚═══╝╚══╝ ╚═╝
-
-© Freddy Bots   
+╚═══╝╚═╝╚══╝╚╩╩╝╚═══╝╚══╝ ╚═
 
 `;
   }
@@ -55,7 +53,7 @@ class Luncher {
 <b><bl>gh:</bl></b> YƐN TƆN
 
 <b>For updates and more bots join us:</b> 
-<la>https://t.me/freddy_bots</la>
+<la>https://t.me/ashestricks</la>
 `
     );
     console.log(this.#start_text);
